@@ -1,0 +1,3 @@
+/home/li/桌面/8.8/socket/client/build/CMakeFiles/rebuild_cache.dir
+/home/li/桌面/8.8/socket/client/build/CMakeFiles/edit_cache.dir
+/home/li/桌面/8.8/socket/client/build/CMakeFiles/client.dir

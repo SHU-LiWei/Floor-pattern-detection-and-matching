@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/li/桌面/8.8/socket/server/main.cpp
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+iostream
+-
+fstream
+-
+istream
+-
+string
+-
+vector
+-
+
